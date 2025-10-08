@@ -1,0 +1,17 @@
+form {
+  background: #fff;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+ion-item {
+  --background: transparent;
+  --border-color: #e0e0e0;
+  margin-bottom: 8px;
+}
+
+ion-button {
+  border-radius: 8px;
+  font-weight: 600;
+}

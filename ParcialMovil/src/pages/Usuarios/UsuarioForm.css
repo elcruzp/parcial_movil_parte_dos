@@ -1,0 +1,48 @@
+.form-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  --background: var(--ion-color-light);
+}
+
+/* Icono principal */
+.form-header {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+
+.form-avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.form-icon {
+  font-size: 100px;
+  color: var(--ion-color-primary);
+}
+
+/* Contenedor del formulario */
+.form-wrapper {
+  width: 100%;
+  max-width: 420px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 16px;
+}
+
+/* Campos */
+ion-item {
+  --background: transparent;
+  margin-bottom: 8px;
+  --border-color: #e0e0e0;
+}
+
+/* Botón */
+ion-button {
+  border-radius: 10px;
+  font-weight: 600;
+  margin-top: 12px;
+}

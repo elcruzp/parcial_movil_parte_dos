@@ -1,0 +1,31 @@
+.mascota-form-content {
+  --background: #f7f9fb;
+  text-align: center;
+}
+
+.mascota-form-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.mascota-form-avatar {
+  width: 90px;
+  height: 90px;
+  background-color: #eaf8ef;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mascota-form-icon {
+  font-size: 60px;
+  color: var(--ion-color-success);
+}
+
+ion-toolbar {
+  --background: #ffffff !important;
+  --color: #222;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}

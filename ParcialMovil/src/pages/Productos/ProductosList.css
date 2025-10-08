@@ -1,0 +1,61 @@
+/* Fondo */
+.productos-content {
+  background-color: #ffffff;
+  --ion-background-color: #ffffff;
+}
+
+/* Searchbar */
+.productos-list ion-searchbar {
+  --background: #f5f5f5;
+  --icon-color: #999;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+/* --- SOLO PRODUCTOS --- */
+.productos-list .user-card {
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 1%;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease;
+  text-align: center; /* 👈 centra icono y texto */
+}
+
+.productos-list .user-card:hover {
+  transform: scale(1.02);
+}
+
+.productos-list .user-avatar {
+  width: 80px;
+  height: 80px;
+  margin: 10px auto;
+  background-color: #f0f0f0;
+}
+
+.productos-list .user-icon {
+  color: #6c757d;
+  font-size: 64px;
+}
+
+/* Textos */
+.productos-list .user-name {
+  font-weight: 600;
+  font-size: 16px;
+  color: #28a745;
+  margin-top: 8px;
+}
+
+.productos-list .user-role {
+  color: #28a745;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/* Botón flotante */
+.productos-list ion-fab-button {
+  box-shadow: 0 4px 10px rgba(0, 128, 0, 0.4);
+}

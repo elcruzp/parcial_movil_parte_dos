@@ -1,0 +1,29 @@
+.producto-card {
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  padding-top: 16px;
+}
+
+.producto-icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.producto-icon {
+  font-size: 64px;
+  color: var(--ion-color-success);
+}
+
+.botones-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 16px;
+  gap: 12px;
+}
+
+.botones-container ion-button {
+  flex: 1;
+}
