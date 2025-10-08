@@ -3,6 +3,10 @@
 Proyecto académico desarrollado con **Ionic React**, correspondiente a la asignatura de programación móvil.  
 Este repositorio incluye el código fuente de la aplicación y la documentación asociada (backlog en Trello, historias de usuario, etc.).
 
+Link del repositorio GitHub: https://github.com/elcruzp/parcial_movil_parte_dos
+Link del vidoe en Youtube: https://www.youtube.com/watch?v=fx-Lr9HiGXY
+Link del Trello: https://trello.com/invite/b/68e51b7b2f0e0cd59248246b/ATTIda7424c6acaef29e056628b99529853e20472C1A/parcial-2-movil
+
 ---
 
 ## 📂 Estructura del Repositorio
@@ -17,6 +21,7 @@ parcial_movil_parte_dos/
 │   └── ...                       # Otros archivos de configuración
 │
 ├── Backlog_trello_parcial_dos.pdf  # Documento con el backlog de Trello (PDF)
+├── Documentacion.pdf               # Documentación completa del proyecto (PDF)
 ├── Historias_de_usuario.md         # Historias de usuario con priorización MoSCoW
 └── README.md                       # Este archivo (instructivo/índice del repo)
 
@@ -78,10 +83,11 @@ parcial_movil_parte_dos/
 
 ## 👥 Autores
 
-*   - JUAN CAMILO CRUZ PARDO
-    - VICTOR MANUEL BRAND CEPEDA
-    - ANGIE VALENTINA FLOREZ VARGAS
-    - BRANDOW STIVENT CLAROS POLANIA
+* JUAN CAMILO CRUZ PARDO
+* VICTOR MANUEL BRAND CEPEDA
+* ANGIE VALENTINA FLOREZ VARGAS
+* BRANDOW STIVENT CLAROS POLANIA
+
   Estudiantes de Ingeniería de Sistemas · [GitHub](https://github.com/elcruzp)
 
 ---
